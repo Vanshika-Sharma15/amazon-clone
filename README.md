@@ -21,4 +21,4 @@ A simple clone of the Amazon homepage created with **HTML** and **CSS**.
 
 2. Open `index.html` in your web browser.
 
-## Created the amazon clone to step into world of web dev and to strengthen my command on html and css 
+## Created this amazon clone some time ago to step into world of web dev and to strengthen my command on html & css 
